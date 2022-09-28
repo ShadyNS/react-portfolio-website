@@ -24,7 +24,7 @@ const data = [
     id: 3,
     image: IMG3,
     title: 'React Portfolio',
-    github: 'https://github.com',
+    github: 'https://github.com/ShadyNS/react-portfolio-website',
   },
 ]
 
