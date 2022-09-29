@@ -1,5 +1,5 @@
 import React from 'react'
-import {BsLinkedin, BsGithub, BsDribbble} from 'react-icons/bs'
+import {BsLinkedin, BsGithub, BsInstagram} from 'react-icons/bs'
 
 
 const HeaderSocials = () => {
@@ -7,7 +7,7 @@ const HeaderSocials = () => {
     <div className='header__socials'>
         <a href='https://linkedin.com/in/nitishsihmar' target='_blank'><BsLinkedin/></a>
         <a href='https://github.com/ShadyNS' target='_blank'><BsGithub/></a>
-        <a href='https://dribble.com' target='_blank'><BsDribbble/></a>
+        <a href='https://instagram.com/nitishsihmar' target='_blank'><BsInstagram/></a>
     </div>
   )
 }
